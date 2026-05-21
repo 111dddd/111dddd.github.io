@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinghao"
+title: "Xinghao1"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,14 @@ redirect_from:
 
 ## About Me
 
-这里可以写你的学校、专业、研究方向或个人介绍。
+学校：南京理工大学
+专业：网络安全
+研究方向：深度学习 目标检测 
 
 ## Projects
 
-这里可以写你做过的项目、代码仓库、课程项目或研究工作。
+- 基于旋转框和知识蒸馏的目标检测轻量网络
+
 
 ## Contact
 
